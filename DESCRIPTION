@@ -12,5 +12,6 @@ LazyData: true
 Requires:
   two.laws.big.bang,
   two.laws.html,
-  blogdown
+  blogdown,
+  RcppTOML
 RoxygenNote: 6.0.1
